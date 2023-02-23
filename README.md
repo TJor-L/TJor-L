@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TJor-L
 - 👀 I’m interested in computer sicence & music.
-- 🌱 I’m currently learning Java Programming.
-- 📫 Email: liutingjun2022@163.com
+- 🌱 I’m currently learning C++ Programming.
+- 📫 Email: l.tingjun@wustl.edu
 
 <!---
 TJor-L/TJor-L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
