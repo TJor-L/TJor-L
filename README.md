@@ -2,55 +2,70 @@
 
 ## SUMMARY
 
-Has a wide range of software development project experiences, including full-stack, web application development, and game development using React, Express, MySQL, MongoDB, PHP, JavaScript, JAVA, C++, and Python.
-Have experience in machine learning techniques like TensorFlow or PyTorch. Capable of using models like CNN, RNN, and Transformer to solve realistic problems. Be able to use LoRA, Adapter, and Prompt tuning to fine-tune open-source LLMs and CV models. Familiar with LangChain to build applications based on GPT’s API.
+Seeking Software Engineer Intern: Experienced in full-stack, web, and game development using tools like React, Spring Boot, Flask, and languages such as PHP, JavaScript, Java, C++, Python. Knowledgeable in machine learning with TensorFlow/PyTorch and models like CNN, RNN, Transformer. Proficient with LangChain and GPT API applications.
 
 ## EDUCATION
 
-**Washington University in St. Louis** - August 2022 - May 2026
-Bachelor of Science in Computer Science                                                                                                          GPA 4.0/4.0
+**Washington University in St. Louis** - GPA 4.0/4.0  
+_Bachelor of Science in Computer Science_ - August 2022 - May 2026
+
+## TECHNICAL SKILLS:
+
+- **Languages**: PHP, JavaScript, Java, C++, Python, C# 
+- **Frameworks and Libraries**: React, Spring Boot, Flask, Django, Node.js, Express 
+- **Databases**: MongoDB, MySQL, Milvus 
+- **Machine Learning Models**: CNN, RNN, Transformer
+- **Tools and Platforms**: Git, TensorFlow, PyTorch, GPT API, Docker, AWS, LangChain
 
 ## WORKING EXPERIENCE:
 
-### DHC Software Co., Ltd (Python, JAVA, LangChain,)
-**Intern in Financial Big Data Technology Department: Software Developer** - May 2023 - July 2023
-- Developed an AI credit reporting system using ChatGLM-6B
-- Trained the model with and P-tuning to meet the specific requirements, adding Postgres database using Langchain.
-- Using React and Django to build an application to use the modal for credit assessment and anti-money laundering.
+### Cogno Technology (GPT API, Flask, Docker, Milvus, AWS) - July 2023 - Now
+**Software Developer**  
+- WeChat Bot Development: Implemented a bot using the Chroma database, GPT API, and Langchain to respond to user messages, including documents, audio, and images.
+- Framework & API Development: Created an encapsulation framework with Flask, GPT Cache, OpenAI API, ensuring separation of business operations from core logic. Migrated the previous Cogno business logic to new framework.
+- E-commerce Platform: Developed a standalone e-commerce platform leveraging LLM customer service and Milvus-assisted product search. Utilized Flask, MySQL for backend design, development, and troubleshooting. Deployment carried out on AWS through Docker.
 
-### Cogno Technology (Langchain, GPT API, Django)
-**Model fine-tuning specialist** - July 2023
-- Creating a WeChat bot based on Chroma database and GPT API using Langchain.
-
-### Beijing Institute of Technology (Transformer, Pytorch, MobileNet v2)
-**Computer Science Elite Program: Researcher** - Sep 2021 - Apr 2022
-- Utilizing Transformer models from the field of Natural Language Processing (NLP) for MIDI music generation 
-- Employed the MobileNet V2 model to identify music’s style and emotion based on waveform images.
-
-### Guilin Experimental High School (C++, Algorithms and Data structures)
-**Computer Education Program: Olympiad in Informatics Teacher and Program Leader** - July 2019 - July 2022
-- Initiated a computer support teaching project at Guilin Experimental Middle School Affiliated with Capital Normal University, where I taught over 100 students and gave over 200+ lectures. 
-- Taught information competition classes to help students learn competition algorithms and prepare for major international information technology competitions.
+### DHC Software Co., Ltd (Django, React) - May 2023 - July 2023
+**Software Development Intern in Financial Big Data Technology Department**  
+- Platform Creation: Developed a user credit assessment and anti-money laundering platform using React, enabling banks to judge user creditworthiness and potential money laundering suspicions based on transaction records.
+- Backend Development & Designing: Designed and established the backend, used Django to handle frontend requests and interactions with the LLM API.
+- Model Training: Employed P-tuning to train ChatGLM-6B, allowing it to perform credit assessments based on bank data.
 
 ## PROJECT EXPERIENCE:
 
-### Bill Split: Team Expense Manager (MongoDB, Node.js, React) - Mar 2023 - Apr 2023
-- Developed the front end using React, ensuring a responsive and user-friendly design.
-- Implemented the backend using Node.js Express, including expense management and database connectivity APIs.
-- Designed and implemented the MongoDB database schema to efficiently store and retrieve expense data.
+### Bill Split: Team Expense Manager (MongoDB, Node.js, React) - Mar 2023 - May 2023
+- Developed a user-friendly interface with React for efficient team expense tracking and management.
+- Implemented a graph theory algorithm to streamline and simplify the transaction process among team members.
+- Built backend operations with Node.js and Express, including APIs for adding, retrieving, modifying, and deleting expenses.
+- Designed a MongoDB schema for optimal storage and querying of expense data.
+- Employed Git for version control and deployed using Docker for consistent environments.
 
-### Gomoku Battle Program and AI (C++) - July 2021 - Sep 2021
-- Implement the basic logic and interface of the Gomoku game.
-- Use C++ to write AI algorithms and optimize them using the Expectimax algorithm.
-- Debug and test the program to ensure its stability and functionality.
+### WashU Internal Second-hand Goods Trading Platform (Spring Boot, React, Project Design) - July 2023 - Sep 2023
+- Led the design and development of WashU's internal second-hand trading platform, serving students and faculty.
+- Crafted a React-based interface and backend services with Spring Boot.
+- Introduced the GPT API to enhance user shopping experiences through intelligent product insights and providing users with tailored product suggestions.
+- Continuously updated and optimized platform features based on user feedback and changing requirements, ensuring the platform's relevance and efficiency.
 
 ### Team Event Management System Similar to Google Calendar (PHP, AJAX, HTML, MySQL) - Apr 2023 - May 2023
-- Use PHP, JavaScript, HTML, and AJAX to implement the system’s essential functions, like adding events and joining teams to view team events. 
-- Implement the core logic of event management, including adding, deleting, and modifying events.
-- Design a MySQL database to save users’ data.
+- Developed key functionalities using PHP, JavaScript, HTML, and AJAX, such as event addition and team joining to view collective events.
+- Executed core event management logic, encompassing the addition, deletion, and modification of events.
+- Crafted a MySQL database structure to securely store user data and event details.
+
+### Storm Watch: A multi-player 2D RPG shooting game (C#, Unity) - June 2023 - Sep 2023
+- Spearheaded the development of "Storm Watch," a multi-player 2D RPG shooting game using Unity and C#.
+- Took the helm in game design, conceptualizing and detailing the game's narrative, characters, and setting to create a compelling backdrop for the gameplay.
+- Implemented local area network (LAN) multiplayer capabilities, permitting players to team up or combat in real-time.
+- Designed and integrated character skill effects, enriching gameplay dynamics.
+- Actively gathered and implemented player feedback, continuously refining the game for an optimal experience.
 
 ## HONORS AND AWARDS
 - Distinction Rank (Top 5%) in 2021 AMC 12A - Dec 2021
 - 1st Place in Gold Division (out of 723 participants) of the USACO Contest - Jan 2020
 - Top 2% of 148,880 students, National Olympiad in Informatics in Province (NOIP) - May 2019
 - Dean’s List at Washington University in St. Louis for all semesters. - June 2023
+
+## CONTACT
+- **Phone**: +1 3149349814 
+- **LinkedIn**: [linkedin.com/in/tingjun-liu-2a541127b](https://linkedin.com/in/tingjun-liu-2a541127b)
+- **Website**: [www.dijkstraliu.com](http://www.dijkstraliu.com)
+- **Email**: dijkstra20031023@gmail.com
